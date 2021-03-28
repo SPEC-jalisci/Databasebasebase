@@ -20,4 +20,4 @@ User Documentation
 * **Iwo Strzeboński**: Optymalizacja zapytań / Optimising queries
 
 ## Licencja
-[WTFPL](./LICENSE) by Sam Hocevar
+[WTFPL by Sam Hocevar](./LICENSE)
