@@ -1,5 +1,5 @@
 # Databasebasebase
-*Projekt "Baza Danych" na Motorola Science Cup 2020*
+*Projekt "Baza Danych" na Motorola Science Cup 2020*  
 *"Data Base" Project for Motorola Science Cup 2020*
 
 Dokumentacja Użytkownika  
