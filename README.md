@@ -19,5 +19,5 @@ User Documentation
 * **Jan Krzemień** i **Zbyszko Sobecki**: Pisanie zapytań / Writing queries
 * **Iwo Strzeboński**: Optymalizacja zapytań / Optimising queries
 
-## Licencja
+## Licencja / License
 [WTFPL by Sam Hocevar](./LICENSE)
